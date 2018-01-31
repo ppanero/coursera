@@ -13,3 +13,14 @@
 
 	Normal ML workflow: starts by the representation of the problem (features, type of classifiers, etc.). Then, it need a evaluation criterion to distinguish bad from good classfication. The last step it to optimize, meaning getting the classfier that gets the best result for an specific evaluation criterion.
 
+## Python tools
+
+	- [SciKit Learn](https://scikit-learn.org)
+	- [SciPy](https://www.scipy.org)
+	- [NumPy](https://www.numpy.org)
+	- [matplotlib](http://matplotlib.org)
+	- Also pandas, seaborn and graphviz. 
+
+
+
+
